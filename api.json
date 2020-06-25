@@ -1,9 +1,7 @@
 {
-    "mainProductId": "1",
-    "shelfProductIds": [
-        "177",
-        "179",
-        "161",
-        "162"
-    ]
+  "skuIds": [
+    "10008623"
+  ],
+  "highlight": "10008623",
+  "sales": 30
 }
